@@ -15,7 +15,8 @@ quality goals
 | ReportEditor page | ReportService, DataService |
 
 # Building block view
-to be uploaded
+## Level 1
+![System view](./images/block_view_01.png)
 # Runtime view
 1. Happy workflow
 2. Negative workflow
